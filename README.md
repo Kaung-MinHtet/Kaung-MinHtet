@@ -1,6 +1,6 @@
 # Hi, I'm Kaung Min Htet 👋
 
-<img align="left" width="150" height="150" alt="Dani Akash" src="https://sdk.bitmoji.com/render/panel/dc878a02-6c0d-4366-ab3b-b86a397e31ad-9abca207-e196-4c3e-8932-0fae4ce0c737-v1.png?transparent=1&palette=1"/>
+<img align="left" width="150" height="150" alt="Dani Akash" src="[https://sdk.bitmoji.com/render/panel/dc878a02-6c0d-4366-ab3b-b86a397e31ad-9abca207-e196-4c3e-8932-0fae4ce0c737-v1.png?transparent=1&palette=1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Demoji%2Bprogrammer&psig=AOvVaw2NyiOEkXBk_CKKAgte4RRp&ust=1727506733737000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDuwJ7G4ogDFQAAAAAdAAAAABAJ)"/>
 
 I'm a **Backend Web Developer** specializing in **Laravel**! 💻 I focus on building secure, efficient, and scalable APIs and server-side applications, with a deep love for the **Laravel** ecosystem. I also work with **React** on the frontend when building full-stack applications, but backend is where I truly thrive.
 
