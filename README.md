@@ -2,6 +2,10 @@
 
 I'm a **Backend Web Developer** specializing in **Laravel**! 💻 I focus on building secure, efficient, and scalable APIs and server-side applications, with a deep love for the **Laravel** ecosystem. I also work with **React** on the frontend when building full-stack applications, but backend is where I truly thrive.
 
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
+
 ---
 
 ## 👨‍💻 About Me:
