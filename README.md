@@ -92,6 +92,13 @@ A project developed for the **Ministry of Ethnic Affairs** in Myanmar, offering 
 
 ---
 
+![Language](https://img.shields.io/badge/language-PHP-brightgreen)
+![Language](https://img.shields.io/badge/language-JavaScript-blue)
+![Language](https://img.shields.io/badge/language-HTML-orange)
+![Language](https://img.shields.io/badge/language-CSS-lightgrey)
+
+---
+
 ## 🤝 Connect with me:
 
 <p align="center">
