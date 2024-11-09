@@ -100,9 +100,6 @@ A project developed for the **Ministry of Ethnic Affairs** in Myanmar, offering 
 - **Advanced Docker** for better deployment workflows.
 - **Message Queues** (e.g., Redis, RabbitMQ) for asynchronous job handling.
 
----
-
-<a href="https://www.github.com/Kaung-MinHtet"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Kaung-MinHtet&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
 ---
 ## 🤝 Connect with me:
@@ -113,6 +110,6 @@ A project developed for the **Ministry of Ethnic Affairs** in Myanmar, offering 
 
 ---
 
-> **“First, solve the problem. Then, write the code.” – John Johnson**
+> **“First, solve the problem. Then, write the code.”
 
 Thanks for stopping by! Feel free to check out my repositories for more backend-focused projects! 😄
